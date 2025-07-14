@@ -17,3 +17,17 @@
 ## How to Run
 
 ### Backend
+
+cd backend
+npm install
+cp .env.example .env
+npm run dev
+
+shell
+Copy
+Edit
+
+### Frontend
+cd frontend
+npm install
+npm start
